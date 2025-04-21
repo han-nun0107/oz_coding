@@ -16,7 +16,7 @@ function App() {
   ]);
 
   return (
-    <div className="min-h-screen flex items-center justify-center p-4">
+    <div className="min-h-screen flex items-center justify-center p-4 ">
       <div className="grid w-full max-w-4xl grid-rows-[.1fr_.1fr_.1fr_.4fr_.4fr_.2fr] gap-4">
         <Advice />
         <Clock />
